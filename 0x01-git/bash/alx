@@ -1,2 +1,3 @@
 #!/bin/bash
-escho "ALX School is so cool!"
+
+escho "ALX School"
